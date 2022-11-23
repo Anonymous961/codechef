@@ -1,0 +1,1 @@
+{"name":"Local: tfpaper","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\tfpaper.cpp","tests":[{"id":1658068630997,"input":"3\n1 1\n50 0\n100 76\n","output":"0\n50\n24\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\tfpaper.cpp","group":"local","local":true}

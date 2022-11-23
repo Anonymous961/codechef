@@ -1,0 +1,1 @@
+{"name":"Local: makepal2","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\makepal2.cpp","tests":[{"id":1658328669667,"input":"4\n3\n101\n3\n001\n4\n1011\n6\n010011\n","output":"101\n00\n111\n1001\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\makepal2.cpp","group":"local","local":true}

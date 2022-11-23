@@ -1,0 +1,1 @@
+{"name":"Local: makepalagain","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\makepalagain.cpp","tests":[{"id":1658071387125,"input":"3\n6\naabbaa\n4\nabcd\n6\nzzxyyx\n","output":"YES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\makepalagain.cpp","group":"local","local":true}

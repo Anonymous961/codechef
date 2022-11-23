@@ -1,0 +1,1 @@
+{"name":"Local: introdsgn","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\introdsgn.cpp","tests":[{"id":1658068388979,"input":"4\n10 20 9 25\n10 20 9 20\n10 20 20 10\n100 43 85 61","output":"30\n29\n30\n143"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\introdsgn.cpp","group":"local","local":true}

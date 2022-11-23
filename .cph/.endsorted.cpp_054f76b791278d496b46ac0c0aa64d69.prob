@@ -1,0 +1,1 @@
+{"name":"Local: endsorted","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\endsorted.cpp","tests":[{"id":1657983688220,"input":"4\n4\n1 3 2 4\n3\n3 2 1\n2\n2 1\n3\n2 1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\endsorted.cpp","group":"local","local":true}

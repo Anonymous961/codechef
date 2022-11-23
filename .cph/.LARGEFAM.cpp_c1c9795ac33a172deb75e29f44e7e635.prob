@@ -1,0 +1,1 @@
+{"name":"Local: LARGEFAM","url":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\LARGEFAM.cpp","tests":[{"id":1658076045624,"input":"4\n2\n1 0\n2\n1 1\n3\n2 0 1\n5\n2 3 1 2 3\n","output":"2\n1\n2\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Anil Kumar\\Desktop\\Codechef compi\\LARGEFAM.cpp","group":"local","local":true}
